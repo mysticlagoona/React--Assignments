@@ -1,0 +1,71 @@
+.header_logo {
+    width: 18px;
+    height: 18px;
+    border: white 1px solid ; 
+}
+.Main-table {
+    background-color: #f6f6ef;
+    width: 85%;
+    border: 0px;
+}
+.Main-Table-td {
+    background-color: #ff6600;
+    color: black;
+}
+.Sub-table {
+    border: 0px;
+    padding: 2px;
+    width: 100%;
+
+}
+
+.Sub-table-td {
+
+line-height: 12pt;
+height: 10px;
+
+}
+
+td {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    /* color: #828282; */
+}
+.header_link {
+    text-align: left;
+    color: black;
+}
+.login {
+    text-align: right;
+    
+}
+.header_link_login {
+    color: black !important;
+    
+}
+.header_link_login:link {
+    text-decoration: none;
+}
+
+.header_link_login:visited {
+    text-decoration: none;
+}
+.header_link:link {
+    text-decoration: none;
+}
+
+.header_link:visited {
+    text-decoration: none;
+}
+.header_link:hover{
+    color: black;
+}
+.header_link_login:hover {
+    color: black;
+}
+.header_link_login:active {
+    color: black;
+}
+.header_link:active {
+    color: black;
+}
