@@ -1,0 +1,38 @@
+.a_link_login {
+    color: black !important;
+    
+}
+.a_link_login:link {
+    text-decoration: none;
+}
+
+.a_link_login:visited {
+    text-decoration: none;
+}
+.a_login:hover {
+    color: black;
+}
+.a_link_login:active {
+    color: black;
+}
+
+.comhead_a:link {
+    text-decoration: none;
+    color: #828282;
+}
+
+.comhead_a:visited {
+    text-decoration: none;
+    color: #828282;
+}
+.comhead_a:hover {
+    color: #828282;
+    text-decoration: underline;
+}
+.comhead_a:active {
+    color: #828282;
+}
+
+.title   { font-family:Verdana, Geneva, sans-serif; font-size: 10pt; color:#828282; }
+.comhead { text-align:left ;font-family:Verdana, Geneva, sans-serif; font-size:  8pt; color:#828282; }
+.subtext { font-family:Verdana, Geneva, sans-serif; font-size:  8pt; color:#828282; }

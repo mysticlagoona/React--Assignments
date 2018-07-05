@@ -1,0 +1,29 @@
+.App-logo {
+  width: 18px;
+  height: 18px;
+  border: white 1px solid ; 
+}
+
+
+
+.App-title {
+  font-size: 1em;
+}
+
+.App-intro {
+  font-size: medium;
+  
+}
+.itemlist { 
+  padding-right: 5px; 
+  padding: 0; 
+  border: 0; 
+  font-family: Verdana, Geneva, sans-serif;
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  text-align: start;
+}
+
+
